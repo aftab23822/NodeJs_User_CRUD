@@ -32,6 +32,3 @@ Edit the connection.js file in the root directory and update the MongoDB URL acc
 Here's an example
    ```bash
    await mongoose.connect(YOUR_MONGO_DB_CONNECTION_STRING)
-
-
-
