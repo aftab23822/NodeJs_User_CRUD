@@ -50,3 +50,8 @@ To start the Express API server, run the following command:
 5. DELETE /api/user/:id   => Delete an item by ID.
 
 You can test these endpoints using tools like [Postman](https://www.postman.com/) or by making HTTP requests from your application.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
