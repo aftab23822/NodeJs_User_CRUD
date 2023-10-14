@@ -18,9 +18,11 @@ Before you start, make sure you have the following prerequisites installed on yo
    ```bash
    git clone https://github.com/aftab23822/NodeJs_User_CRUD.git
 
+
 2.Navigate to the project directory:
    ```bash
    cd NodeJs_User_CRUD
+
 
 3.Install the required dependencies:
    ```bash
