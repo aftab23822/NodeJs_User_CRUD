@@ -39,7 +39,7 @@ Here is an example:
 
 To start the Express API server, run the following command:
    
-   ```bash
+   
    npm start
 
 ## API Endpoints
