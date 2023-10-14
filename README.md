@@ -32,7 +32,7 @@ Before running the application, you need to configure the MongoDB connection.
 Edit the `connection.js` file in the root directory and update the MongoDB URL according to your database configuration.
 Here is an example:
     
-    ```bash
+    
     await mongoose.connect(YOUR_MONGO_DB_CONNECTION_STRING)
 
 ## Usage
