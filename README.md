@@ -18,16 +18,20 @@ Before you start, make sure you have the following prerequisites installed on yo
    ```bash
    git clone https://github.com/aftab23822/NodeJs_User_CRUD.git
 
-
 2. Navigate to the project directory:
    ```bash
    cd NodeJs_User_CRUD
 
-
 3. Install the required dependencies:
    ```bash
    npm install
+## Configuration 
 
+Before running the application, you need to configure the MongoDB connection. 
+Edit the connection.js file in the root directory and update the MongoDB URL according to your database configuration.
+Here's an example
+   ```bash
+   await mongoose.connect(YOUR_MONGO_DB_CONNECTION_STRING)
 
 
 
