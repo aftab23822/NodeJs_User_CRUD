@@ -32,7 +32,7 @@ Before running the application, you need to configure the MongoDB connection.
 Edit the connection.js file in the root directory and update the MongoDB URL according to your database configuration.
 Here iss an example:
    ```bash
-   await mongoose.connect(YOUR_MONGO_DB_CONNECTION_STRING)
+   await mongoose.connect(YOUR_MONGO_DB_CONNECTION_STRING)```
 
 ## Usage
 To start the Express API server, run the following command:
