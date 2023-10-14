@@ -39,9 +39,12 @@ Here is an example:
 
 To start the Express API server, run the following command:
    
-   
    npm start
 
 ## API Endpoints
 
-API Endpoints
+GET /api/user         => Retrieve all items.
+GET /api/user/:id      => Retrieve a specific item by ID.
+POST /api/user/:id     => Create a new item.
+PATCH /api/user/:id    => Update an item by ID.
+DELETE /api/user/:id   => Delete an item by ID.
