@@ -49,4 +49,4 @@ To start the Express API server, run the following command:
 4. PATCH /api/user/:id    => Update an item by ID.
 5. DELETE /api/user/:id   => Delete an item by ID.
 
-You can test these endpoints using tools like [https://postman.com/](https://www.postman.com/) or by making HTTP requests from your application.
+You can test these endpoints using tools like [Postman](https://www.postman.com/) or by making HTTP requests from your application.
