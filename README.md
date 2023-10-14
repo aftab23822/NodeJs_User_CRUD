@@ -43,8 +43,8 @@ To start the Express API server, run the following command:
 
 ## API Endpoints
 
-GET /api/user          => Retrieve all items.
-GET /api/user/:id      => Retrieve a specific item by ID.
-POST /api/user/:id     => Create a new item.
-PATCH /api/user/:id    => Update an item by ID.
-DELETE /api/user/:id   => Delete an item by ID.
+1. GET /api/user          => Retrieve all items.
+2. GET /api/user/:id      => Retrieve a specific item by ID.
+3. POST /api/user/:id     => Create a new item.
+4. PATCH /api/user/:id    => Update an item by ID.
+5. DELETE /api/user/:id   => Delete an item by ID.
